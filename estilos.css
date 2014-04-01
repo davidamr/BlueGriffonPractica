@@ -1,0 +1,48 @@
+.cabecera {  
+  color: #3333ff;  
+  background-color: #33ccff;
+}
+
+.cuerpo {  
+  background-color: #33ccff;
+}
+
+#foto1 {  
+  visibility: visible;  
+  display: block;  
+  float: left;  
+  left: 10px;
+}
+
+#foto {  
+  right: 10px;  
+  position: static;
+}
+
+#pbcn {  
+  font-style: oblique;  
+  text-align: center;
+}
+
+#videojuegos {  
+  text-align: center;  
+  color: #6666cc;
+}
+
+#pdiablo {  
+  background-color: #33ccff;
+}
+
+.videojuegos {  
+  color: #6666cc;
+}
+
+#futbol {  
+  text-align: center;
+}
+
+#pfcb {  
+  text-align: center;  
+  font-style: oblique;
+}
+

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>PracticaBlueGriffon</title>
+    <link href="estilos.css" rel="stylesheet" type="text/css">
+  </head>
+  <body class="cuerpo">
+    <div style="text-align: center; background-color: white;">
+      <h1 class="cabecera" id="cabecera"> <span class="cabecera">Práctica
+          Página Web</span> </h1>
+    </div>
+    <center>
+      <table style="width: 737px;" border="1">
+        <tbody>
+          <tr>
+            <td style="width: 484.083px;" colspan="1" rowspan="5">&nbsp; <video
+                id="video" autoplay="autoplay" controls="controls" preload="auto"
+                src="Tutorial%20Virtual%20Box%28720p_H.264-AAC%29.mp4" height="300"
+                width="500"></video><br>
+            </td>
+            <td style="height: 29.5px; text-align: center;"><a href="barcelona.html"><img
+                  style="width: 67px; height: 76px;" alt="" src="file:///C:/Users/David/Desktop/Pruebas-BlueGriffon/ciudad.gif"></a><br>
+            </td>
+            <td style="width: 153.333px; text-align: center;"><a href="barcelona.html">Mi
+                ciudad</a></td>
+          </tr>
+          <tr>
+            <td style="width: 71.85px; height: 54.5px; text-align: center;"><img
+                alt="" src="dado.gif"><br>
+            </td>
+            <td style="text-align: center;"><a href="aficiones.html.bak">Mis
+                aficiones</a><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: center;"><img alt="" src="arroba.gif"><br>
+            </td>
+            <td style="text-align: center;"><a href="http://damrdaw.pusku.com">Enlaces</a><br>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: center;"><img alt="" src="mapa.gif"><br>
+            </td>
+            <td style="text-align: center;">Mapa de la web<br>
+            </td>
+          </tr>
+          <tr>
+            <td style="text-align: center;"><img alt="" src="libro.gif"><br>
+            </td>
+            <td style="text-align: center;"><a href="visitas.html">Libro de
+                visitas</a><br>
+            </td>
+            <td><br>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p><br>
+      </p>
+    </center>
+  </body>
+</html>

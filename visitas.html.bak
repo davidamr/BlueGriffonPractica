@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>visitas</title>
+    <link href="file:///C:/Users/David/Desktop/Pruebas-BlueGriffon/estilos.css"
+      rel="stylesheet" type="text/css">
+  </head>
+  <body class="cuerpo cabecera">
+    <div style="text-align: center;">
+      <h1>Libro de visitas</h1>
+      <form autocomplete="off" method="GET" action="" name="usuario">Nombre:<br>
+        <input name="nombre" type="text"><br>
+        Email:<br>
+        <input name="mail" type="email"><br>
+        Danos tu opinión:<br>
+        <textarea rows="10" cols="20" name="texto"></textarea><br>
+        <br>
+        <input value="Enviar" name="enviar" type="submit"><input value="Vaciar"
+          name="vaciar" type="reset"><br>
+        <br>
+        <a href="file:///C:/Users/David/Desktop/Pruebas-BlueGriffon/PracticaBlueGriffon.html.bak"><img
+            style="width: 40px; height: 42px;" alt="" src="file:///C:/Users/David/Desktop/Pruebas-BlueGriffon/home.jpg"></a><br>
+      </form>
+      <p><br>
+      </p>
+    </div>
+  </body>
+</html>
