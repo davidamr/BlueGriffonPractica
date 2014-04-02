@@ -10,5 +10,13 @@
     <h1 style="text-align: center;" class="cuerpo cabecera">Enlaces de interés</h1>
     <p style="text-align: center;"><a href="http://damrdaw.pusku.com">http://damrdaw.pusku.com</a></p>
     <p style="text-align: center;"><a href="http://kyuken.comuf.com">http://kyuken.comuf.com</a></p>
+    <p style="text-align: center;"><a href="foro.html">Foro IES Joan Brossa</a></p>
+    <p style="text-align: center;"><span style="text-decoration: underline;"><a
+          href="chat.html">IES Joan Brossa Chat</a><br>
+        <br>
+      </span></p>
+    <p style="text-align: center;"><a href="PracticaBlueGriffon.html"><img style="width: 40px; height: 42px;"
+          alt="" src="file:///C:/Users/David/Desktop/Pruebas-BlueGriffon/home.jpg"></a><br>
+      <a href="foro.html"> </a></p>
   </body>
 </html>

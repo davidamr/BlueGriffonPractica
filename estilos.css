@@ -1,10 +1,11 @@
 .cabecera {  
-  color: #3333ff;  
-  background-color: #33ccff;
+  color: #3366ff;  
+  background-color: #ffcc00;
 }
 
 .cuerpo {  
-  background-color: #33ccff;
+  background-color: #ffcc00;  
+  color: #3366ff;
 }
 
 #foto1 {  
