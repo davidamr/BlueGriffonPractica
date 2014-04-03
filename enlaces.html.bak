@@ -7,7 +7,8 @@
       rel="stylesheet" type="text/css">
   </head>
   <body class="cuerpo">
-    <h1 style="text-align: center;" class="cuerpo cabecera">Enlaces de interés</h1>
+    <h1 style="text-align: center;" class="cuerpo cabecera"><span style="text-decoration: underline;">Enlaces
+        de interés</span></h1>
     <p style="text-align: center;"><a href="http://damrdaw.pusku.com">http://damrdaw.pusku.com</a></p>
     <p style="text-align: center;"><a href="http://kyuken.comuf.com">http://kyuken.comuf.com</a></p>
     <p style="text-align: center;"><a href="foro.html">Foro IES Joan Brossa</a></p>
